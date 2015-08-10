@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setHomeButtonEnabled(true);
         getSupportActionBar().setHomeAsUpIndicator(R.drawable.ic_menu_white_24dp);
+        selectItem(0);
 
 
     }
