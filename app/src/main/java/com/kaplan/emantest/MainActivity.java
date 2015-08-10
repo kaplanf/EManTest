@@ -17,7 +17,7 @@ import com.kaplan.emantest.fragments.MapFragment;
 
 public class MainActivity extends AppCompatActivity {
 
-    private String[] drawerItems = {"MAP", "IMAGES"};
+    private String[] drawerItems = {"Map", "Images"};
     private DrawerLayout mDrawerLayout;
     private ListView mDrawerList;
     private ActionBarDrawerToggle mDrawerToggle;
